@@ -1,6 +1,6 @@
-package com.goodmoo.questionnaire.Questionnaire;
+package com.goodmoo.questionnaire.model.Questionnaire;
 
-import com.goodmoo.questionnaire.Question.Question;
+import com.goodmoo.questionnaire.model.Question.Question;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

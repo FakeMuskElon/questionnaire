@@ -1,4 +1,4 @@
-package com.goodmoo.questionnaire.Questionnaire;
+package com.goodmoo.questionnaire.model.Questionnaire;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

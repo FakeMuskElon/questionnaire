@@ -1,4 +1,4 @@
-package com.goodmoo.questionnaire.Question;
+package com.goodmoo.questionnaire.model.Question;
 
 import com.goodmoo.questionnaire.model.QuestionType.QuestionType;
 import lombok.AllArgsConstructor;
